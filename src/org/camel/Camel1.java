@@ -6,4 +6,8 @@ public class Camel1 {
 
 	}
 
+	
+	
+	
+	int b = 20;
 }
